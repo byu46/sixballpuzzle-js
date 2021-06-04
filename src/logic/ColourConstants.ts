@@ -1,5 +1,6 @@
 enum ColourConstants {
-  RED = 0,
+  BLACK = 0,
+  RED,
   YELLOW,
   GREEN,
   BLUE,
